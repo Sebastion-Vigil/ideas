@@ -4,3 +4,11 @@
   - Figure out how to add digital 'killswitch' to os
     * Then add literal physical switch to initialize should pyrric
   - Research antivirus options for Linux
+  - Build dev setup from scratch
+    * Something from nothing
+    * Screen
+    * Keyboard
+    * OS
+    * Android?
+    * Tablet?
+    * Lite version of Linux?

@@ -12,3 +12,5 @@
     * Android?
     * Tablet?
     * Lite version of Linux?
+  - Stay the course
+    

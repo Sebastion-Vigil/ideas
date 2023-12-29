@@ -13,4 +13,6 @@
     * Tablet?
     * Lite version of Linux?
   - Stay the course
+    * no matter what, sit ur a$$ down & do something
+    * push thru da pain
     

@@ -15,3 +15,4 @@
   - Stay the course
     * no matter what, sit ur a$$ down & do something
   - Download Tails OS & Flash 2 USB & Try it out!
+  - Download Parrot OS & Do the Same!
